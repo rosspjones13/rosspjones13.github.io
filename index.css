@@ -272,7 +272,6 @@ body{
 }
 
 #projects section:hover {
-    cursor: pointer;
     border:1px solid rgb(0, 0, 0, 0);
     box-shadow:0px 15px 35px rgb(0, 0, 0, 0.06);
     transform:scale(1.03);
@@ -285,9 +284,10 @@ body{
 }
 
 .about_section {
+    color: white;
     font-size:18px;
     font-family: 'Questrial', sans-serif;
-    margin:2vh 0px;
+    margin:2vh 0px 2vh 0px;
     font-weight:bold;
 }
 
