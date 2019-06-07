@@ -309,6 +309,24 @@ body{
     font-size:15px;
 }
 
+.demo_link {
+    color: white;
+    display: block;
+    font-size:18px;
+    font-family: 'Questrial', sans-serif;
+    width: 10vw;
+    font-weight:bold;
+    margin: 2vh 0;
+}
+
+.fa-youtube {
+    margin-right: 1vw;
+}
+
+.fa-code-branch {
+    margin-right: 1vw;
+}
+
 #blog_section {
     margin:2vh 0px;
     padding:2vh 0px !important;
